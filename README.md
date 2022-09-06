@@ -25,17 +25,19 @@ The major [description is here](https://github.com/alexmchale/merc-mud/blob/mast
 
 ## How to continue from here
 
+
 The consequent next step would be to put the MOBs (mobiles) and objects in place.
+All of this is NOT in the demo.
 
 To spawn objects in the rooms, we need to look at the RESETS table.
 
 Line 6930 is:
-M 1 12000 1 12010
+`M 1 12000 1 12010`
 
 which according to the spec means
 `M <:number> <mob-vnum:number> <limit:number> <room-vnum:number> <comment:to_eol>`
 
-which in turn means
+which in turn means:
 put MOB 12000 (Heimdall) in the quantity 1 into room 12010 (Bifrost).
 
 `E 1 12000 1 16` means
