@@ -6,7 +6,12 @@ It's far from being a full parser; it just translates the spatial descriptions t
 
 It could serve as a starting point for people who want to translate MUDs into present day technology.
 
+
+## Demo
+
 A [demo is here](https://dirkk0.github.io/dikumud-parser-player/): https://dirkk0.github.io/dikumud-parser-player/
+
+![](screenshot.png)
 
 ## About DIKU Muds
 
