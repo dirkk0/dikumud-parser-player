@@ -1,0 +1,1862 @@
+{
+  "12000": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12000",
+      "12000",
+      "12000",
+      "12000",
+      false,
+      false
+    ]
+  },
+  "12001": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12002",
+      "12001",
+      "12001",
+      "12001",
+      false,
+      false
+    ]
+  },
+  "12002": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      false,
+      "12002",
+      "12001",
+      "12002",
+      false,
+      false
+    ]
+  },
+  "12003": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12003",
+      "12003",
+      "12003",
+      "12003",
+      false,
+      false
+    ]
+  },
+  "12004": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12004",
+      "12004",
+      "12004",
+      "12004",
+      false,
+      false
+    ]
+  },
+  "12005": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12005",
+      false,
+      "12005",
+      "12007",
+      false,
+      false
+    ]
+  },
+  "12006": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12171",
+      false,
+      "12007",
+      "12008",
+      false,
+      false
+    ]
+  },
+  "12007": {
+    "title": "The Icy Wastes",
+    "desc": "You wander blindly through the blizzard, your footsteps being completely covered in seconds behind you, making it impossible to judge exactly how far you have travelled. Anything dropped here is quickly buried under tons of fresh snow. A creature howls somewhere nearby; you doubt these barren wastes are home to anything benign... ",
+    "exits": [
+      "12006",
+      "12005",
+      false,
+      "12007",
+      false,
+      false
+    ]
+  },
+  "12008": {
+    "title": "The Icy Wastes",
+    "desc": "The blizzard is less fierce at this point, and as you peer through the blinding snow you think you can make out a glittering bridge in the distance. But no matter how much you try to reach it, it always seems to be too far away. At a loss, you wander aimlessly, not knowing what to do. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12009": {
+    "title": "Before Bifrost",
+    "desc": "You arrive suddenly, at the eastern end of Bifrost, the mighty rainbow bridge that allows entrance into Asgard, realm of the Aesir. Standing upon this bridge is Heimdall, sworn guardian of the Rainbow Bridge, protecting Asgard from the giants of Jotunheim or other foes who might seek to cross it and enter the home of the gods. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12010",
+      false,
+      false
+    ]
+  },
+  "12010": {
+    "title": "Bifrost",
+    "desc": "The rainbow bridge shimmers beneath your feet, sending shivers through your frame, and you pause more than once to stare in awe out over the starry expanse it spans. To the west lies a small collection of lodges, homes of the Aesir, gods of Midgaard. In the center of these houses arises a mighty tree- Yggdrasil, the tree of life, the one tree, the tree that joins all. ",
+    "exits": [
+      false,
+      "12009",
+      false,
+      "12011",
+      false,
+      false
+    ]
+  },
+  "12011": {
+    "title": "Asgard",
+    "desc": "The bridge ends at a cobbled road that runs west towards a series of wooden lodges, arranged about the boughs of Yggdrasil. A narrow path runs up from here to the edge of a cliff; you think you can smell the sea. The streets of the realm of the Aesir are quiet; few footprints mark the light coating of snow that covers most of the region.  ",
+    "exits": [
+      false,
+      "12010",
+      false,
+      "12013",
+      "12012",
+      false
+    ]
+  },
+  "12012": {
+    "title": "The Shores of the Sea",
+    "desc": "You are standing at the edge of a wind driven sea; choppy waves break over the rocky shoreline near your feet. A chill wind numbs your bones and you shiver as you try to peer across the foggy depths. An occasional roar, as of some behemoth uttering its own particular profanity, echoes across the sea, and you imagine you can see something- something large, very large- shifting about under the waters. ",
+    "exits": [
+      "12152",
+      false,
+      false,
+      false,
+      false,
+      "12011"
+    ]
+  },
+  "12013": {
+    "title": "Yggdrasil",
+    "desc": "You are standing at the middle branches of Yggdrasil, holy tree upon which all the planes converge. By ascending or descending the mighty boughs of this magnificent tree, you may reach various other sections of Asgard, including Valhalla, Vanaheim, Alfheim, Hel and Gladsheim. A cobbled path continues west into the main streets of the homes of the Aesir. ",
+    "exits": [
+      "12026",
+      "12011",
+      "12120",
+      "12064",
+      "12014",
+      "12195"
+    ]
+  },
+  "12014": {
+    "title": "Vanaheim",
+    "desc": "You find it remarkably easy to scale the mighty boughs of Yggrdrasil, achieving a considerable rate of ascent as you clamber ever upward into the top levels of the Tree of Life. At various points, branches run away from the tree, heading into various parts of the Realm of the Gods; one such branch extends into a leafy forest to the south. ",
+    "exits": [
+      false,
+      false,
+      "12015",
+      false,
+      "12084",
+      "12013"
+    ]
+  },
+  "12015": {
+    "title": "Entering Alfheim",
+    "desc": "Towering trees, their branches heavy with snow, loom to either side of a narrow dirt track that bears the imprints of many pairs of booted  feet and animal hooves. The air here is sharp, and fresh, and you inhale great gusts with pleasure. Small songbirds chirp loudly as they flutter about the massive oaks, pines and aspens of Alfheim, realm of the elves and their ruler, Frey. ",
+    "exits": [
+      "12014",
+      "12016",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12016": {
+    "title": "Alfheim",
+    "desc": "The path continues into the depths of this famous glade, widening considerably as it passes more stretches of forest, the trees extending as far as you can see. Laughter and song is carried in on the wind from the east, and you feel several pairs of eyes watching you from the safety of the trees at all times. ",
+    "exits": [
+      false,
+      "12017",
+      false,
+      "12015",
+      false,
+      false
+    ]
+  },
+  "12017": {
+    "title": "Alfheim",
+    "desc": "At this point a clear bubbling stream cuts across the path, which diverts to the south accordingly to avoid the plesant obstruction. A variety of small fish swim in its clear flowing waters, oblivious to your presence. Occasionally a bird will flutter down to investigate the wake caused by a fish passing close to the surface, then return, disinterested, to the haven of its nest. ",
+    "exits": [
+      false,
+      false,
+      "12018",
+      "12016",
+      false,
+      false
+    ]
+  },
+  "12018": {
+    "title": "Alfheim",
+    "desc": "The path bends again here, heading east once more, the stream having emptied into a large depression in the soft ground between some large trees to the north. This curious sinkhole descends to other parts of Valhalla, places not meant to be seen by mortal eyes. Nor is Alfheim really, actually.  ",
+    "exits": [
+      "12017",
+      "12019",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12019": {
+    "title": "Alfheim",
+    "desc": "You cannot remember having ever been in a more peaceful forest than this one; strolling casually beneath the protective overhanging boughs of the mighty trees of Vanaheim you feel totally at ease. You know that no harm will come to you in this place, unless of course you provoke  such an action from the realm's inhabitants, who will react with understandable zeal to protect their haven. ",
+    "exits": [
+      false,
+      "12021",
+      false,
+      "12018",
+      false,
+      false
+    ]
+  },
+  "12020": {
+    "title": "The Heart of Alfheim",
+    "desc": "The path ends in a small clearing, from which several lodges lead, each housing a lord of Alfheim or one of their many allies and minions, though Frey and Freya would be loathe to label their friends as the  latter. Music fills the air, the clear tenor of a superb skald raised in harmonious praise of this wondrous realm. Small animals such as squirrels, badgers and dogs rush about, scampering and frolicking in abandon, confident in the protection of their elven lord. Frey is indeed fortunate in his residence; what god could want for a more peaceful domicile? ",
+    "exits": [
+      "12024",
+      "12023",
+      "12021",
+      "12022",
+      false,
+      false
+    ]
+  },
+  "12021": {
+    "title": "Approaching the Wooden Lodges",
+    "desc": "The ground becomes harder here, and the path much wider, as it approaches a small collection of wooden lodges to the north, undoubtedly the residences of the lords of this realm. Few mortals indeed have traversed this far into the home of Frey and Freya, and it is with not a small degree of trepidation that you advance upon those known to most as gods. ",
+    "exits": [
+      "12020",
+      false,
+      false,
+      "12019",
+      false,
+      false
+    ]
+  },
+  "12022": {
+    "title": "Stables of Blodug-Hofi",
+    "desc": "Although these magnificent stables that you have entered appear to be capable of housing three score of mighty warhorses, there is evidence of but one steed being quartered here; the steed of Frey and thus considered worthy of such accommodations. Stout oak rafters support a thatched roof, while the whitewashed walls are filled with hooks that bear various tack and saddle care items, as well as several mammoth sacks of oats. ",
+    "exits": [
+      false,
+      "12020",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12023": {
+    "title": "Stables of Gullin-Bursti",
+    "desc": "Equally magnificent as the counterpart to the west, these stables contain a single chariot, large enough to easily carry a dozen men, and a large pile of fresh straw, upon which Gullin-Bursti, boar of Frey, rests when weary, which is seldom indeed for the sturdy porcine pet. He draws Frey's chariot when the mood takes Frey to travel about in it, and is never far from his master's side. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12020",
+      false,
+      false
+    ]
+  },
+  "12024": {
+    "title": "The Lodge of Frey and Freya",
+    "desc": "The interior of this long wooden lodge is filled with all manner of trappings, from pelts taken from wild animals slain in the hunt to a range of trophies sequestered away from their giant and orcish owners, whom where all slain or driven away by Frey and his pets. A series of crossed spears topped by boarhide shields line a narrow ledge set three feet below the ceiling signifies this as the home of a norse god, who despite his peaceful demeanour and surrounds is quite capable of performing admirably alongside his peers when battling enemies of Asgard. ",
+    "exits": [
+      "12025",
+      false,
+      "12020",
+      false,
+      false,
+      false
+    ]
+  },
+  "12025": {
+    "title": "The Lodge of Frey and Freya",
+    "desc": "This spacious room contains beds and furniture aplenty, more than you would think was normally required by two people, and also contains a massive mirror through which the Vanir may observe goings-on in other parts of the world. Freya spends much of her time here, attended by her Valkyries, watching over the world or weaving magical garments. ",
+    "exits": [
+      false,
+      false,
+      "12024",
+      false,
+      false,
+      false
+    ]
+  },
+  "12026": {
+    "title": "A Side Street",
+    "desc": "This narrow cobbled lane leads north towards a small shrine, where the Aesir may spend time in quiet contemplation, a rare occurence for the naturally boisterous gods.  ",
+    "exits": [
+      "12027",
+      false,
+      "12013",
+      false,
+      false,
+      false
+    ]
+  },
+  "12027": {
+    "title": "A Shrine",
+    "desc": "This small chamber is barely large enough for three adults to stand side by side, before the flickering torchlit mural that depicts ragnarok, the fate all Aesir cannot avoid, which will mean their dooms and the end of their reign. Such fatalism seems ignorant to you, but you have little understanding of the ways of gods. ",
+    "exits": [
+      false,
+      false,
+      "12026",
+      false,
+      false,
+      false
+    ]
+  },
+  "12060": {
+    "title": "Outside the Chambers",
+    "desc": "The stairs end before a solid wooden door, which speaks in volumes by its closed and locked state of those within's desire not to be disturbed. Especially by upstarts from Midgaard! Warmth radiates through the wooden portal, presumably from a blazing fire within. Shaking your head, you wonder if it might not be worth risking the wrath of the Aesir to share a little of that warmth. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12097",
+      false,
+      "12061"
+    ]
+  },
+  "12061": {
+    "title": "The Western End of the Hall",
+    "desc": "At this point a broad stair ascends to the second level of the lodge, wherein the private council chambers of the Aesir and Odin himself are located. Barred at all times to non-aesir, those who do somehow manage to gain entrance can expect a rough reception if they are caught in the midst of their transgression. A few small chairs have been arranged here, for those Aesir who desire a bit of peace and quiet. ",
+    "exits": [
+      false,
+      "12062",
+      false,
+      false,
+      "12060",
+      false
+    ]
+  },
+  "12062": {
+    "title": "The Halls of the Aesir",
+    "desc": "You pass into a low ceilinged lodge, the interior of which is heavily decorated with various trophies, mementoes and a profusion of animal hides. It is in this hall, bathed in firelight, that the Aesir gather to sing songs, listen to tales, and drink copious quantities of ale as the mood takes them. ",
+    "exits": [
+      false,
+      "12063",
+      false,
+      "12061",
+      false,
+      false
+    ]
+  },
+  "12063": {
+    "title": "Before the Halls of the Aesir",
+    "desc": "To the west of here lies the impressive lodge that serves as the gathering place for the Aesir, in times of war as well as peace. It is an elaborate  affair, decorated with ornate carvings of the gods at work and play, including events such as the coming of the Aesir, the defeat of the giants of Jotunheim, and the eventual coming of Ragnarak, which is the inevitable fate of the fate-obsessed Aesir. ",
+    "exits": [
+      false,
+      "12064",
+      false,
+      "12062",
+      false,
+      false
+    ]
+  },
+  "12064": {
+    "title": "A Second Path",
+    "desc": "At this point the main road is joined by a second path that runs north towards a large lodge house, which is the residence of Thor, god of thunder and mightiest of the Aesir warriors. Southwards lies a grove of apple trees, tended by Idun, who protects the source of the Aesir's immortality with her life. ",
+    "exits": [
+      "12065",
+      "12013",
+      "12101",
+      "12063",
+      false,
+      false
+    ]
+  },
+  "12065": {
+    "title": "Thor's Lodge",
+    "desc": "The cobbled path ends outside a small lodge, within which one of the greatest of the Aesir, Thor, resides with his wife Sif, goddess of  skill in battle. The thunder god is an open, friendly sort, and is always happy to have visitors, provided they do not threaten his home or his beloved family. ",
+    "exits": [
+      false,
+      false,
+      "12064",
+      "12066",
+      false,
+      false
+    ]
+  },
+  "12066": {
+    "title": "Thor's Home",
+    "desc": "The interior of this small lodge is plain, but practical. A small fire burns in a stone fireplace, above which hang items such as a hunting spear, a skald's lyre, a boarhide shield, a horned helm, and many, many giant skulls, most of them bearing evidence of the sledgehammer blows that felled them. Large bearskin rugs cover the walls and floor, which is of dressed stone. ",
+    "exits": [
+      "12067",
+      "12065",
+      false,
+      "12068",
+      "12069",
+      false
+    ]
+  },
+  "12067": {
+    "title": "A Stables",
+    "desc": "This small chamber houses Thor's magical goats, which bear his chariot when he is at war or journeying across the planes. They are rare, magical beasts that can never be slain; each morning they regenerate to their previous forms, and thus provide an endless source of nourishment for the thunder god and whoever dines with him. ",
+    "exits": [
+      false,
+      false,
+      "12066",
+      false,
+      false,
+      false
+    ]
+  },
+  "12068": {
+    "title": "A Bedroom",
+    "desc": "Thor and his wife Sif were recently blessed with a son, who lives in this sparsely furnished chamber. At first you think it rather cold of the child's parents not to provide him with toys or furniture, but you quickly realize that the child's strength is so great that he  inadvertently breaks almost anything they give him. ",
+    "exits": [
+      false,
+      "12066",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12069": {
+    "title": "A Bed Chamber",
+    "desc": "This is the room where Thor lies with his wife, the beautiful warrior goddess Sif, whose skill with the sword and spear is legendary. Few indeed will stand before her twin blades; even amongst the Aesir her skill is respected and acknowledged. Sif does not adventure as much as she used to these days, but she still keeps practicing her legendary battle skills. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12066"
+    ]
+  },
+  "12084": {
+    "title": "Yggdrasil",
+    "desc": "Yggdrasil soars high into the heavens, reaching up as far as you can see, though your view is obscured by the many leafy branches, most of them as thick as an elephant. Climbing is remarkably easy, and you suspect that some enchantment may facilitate this. Up above lies the top branches of the tree, and the residence of Odin himself, the ruler of the Aesir. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12085",
+      "12014"
+    ]
+  },
+  "12085": {
+    "title": "The Top of Yggdrasil",
+    "desc": "You have climbed as high as is humanly possible up Yggdrasil; to go any higher than this would take you into the airless void that surrounds the plane of Asgard. To the east, a massive wooden lodge looms. This must be the home of Odin and Frigga, and their servants and family. Undoubtedly they would not appreciate any intrustion into this, their most private place. ",
+    "exits": [
+      false,
+      "12086",
+      false,
+      false,
+      false,
+      "12084"
+    ]
+  },
+  "12086": {
+    "title": "Valaskialf",
+    "desc": "Looming before you to the north, across a broad snowfield, is the impressive abode of Odin, known to man and god alike as Valaskialf.  In here, Odin keeps his most treasured possessions and closest allies, as well as his legendary throne. Who knows what treasures may be found within these mighty wooden walls? ",
+    "exits": [
+      "12090",
+      false,
+      false,
+      "12085",
+      false,
+      false
+    ]
+  },
+  "12087": {
+    "title": "A Small Bedchamber",
+    "desc": "Odin's resting place, where he lies with Frigga when he is in need of rest, is a simple affair, consisting of a bed covered in thick animal furs, and a small fireplace which perpetually burns at various temperatures when commanded thusly by Frigga, who is a master of the elements. ",
+    "exits": [
+      false,
+      "12088",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12088": {
+    "title": "The Private Quarters of Odin and Frigga",
+    "desc": "The stairs end in a small chamber, lit by a small fire blazing away in the hearth, and decorated with various trophies of Odin and Frigga. There is little here of real value; they do not seek to acquire loads of booty or treasure. Instead, the majority of the items take the form of trinkets and personal mementos, as well as gifts from their friends amongst the Aesir and Vanir, and the Modsogner and Durin dwarves. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12087",
+      false,
+      "12089"
+    ]
+  },
+  "12089": {
+    "title": "A Stairway to the Next Level",
+    "desc": "Located behind Hlidskialf is a small stair, heading up to the second level, where the private chambers of Odin and Frigga are located. No mortals are welcome here; you can expect resistance if you continue in this direction. An eerie whistling sound can be heard at irregular intervals; it is the icy winds gusting past the solid walls of the palace. ",
+    "exits": [
+      false,
+      false,
+      "12099",
+      false,
+      "12088",
+      false
+    ]
+  },
+  "12090": {
+    "title": "Before the Gates of Valaskialf",
+    "desc": "The gates of Valaskialf are of wood bound with mithril, and glow  oddly, the result of an enchantment that prevents them being forced open by strength, thus deterring any giants who feel brave enough to challenge the ruler of the Aesir. Runes carved into the rough hewn surface label the place as Valaskialf, and as the Home of Odin. They give off a brilliant glow, almost blinding in its intensity, and almost unbearable for your mortal eyes to behold. There is no sign of a lock or bar, yet the doors remain firm and refuse to yield when you push against them. ",
+    "exits": [
+      "12091",
+      false,
+      "12086",
+      false,
+      false,
+      false
+    ]
+  },
+  "12091": {
+    "title": "The Entrance Hall",
+    "desc": "The gates open onto a long hallway, lit by guttering torches that belch forth volumes of smoke from their metal sconces set in the wood support beams of the walls. Bearskins line the stone floor, and various weapons line the walls, interspersed by other trophies and ornaments; most notably various artifacts of the giants, taken in war by Odin or his legions. ",
+    "exits": [
+      "12099",
+      false,
+      "12090",
+      false,
+      false,
+      false
+    ]
+  },
+  "12092": {
+    "title": "A Stables",
+    "desc": "This stable has but a single stall, but it is wide enough to house three war horses. The space is necessary, however, to quarter Odin's mighty steed Sleipner, a muscular eight legged beast that bears Odin upon its broad back in war and in peace. Capable of traversing great distances in seconds, Sleipner is Odin's most trusted pet. ",
+    "exits": [
+      "12094",
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12093": {
+    "title": "A Kennels",
+    "desc": "This section of Odin's palace houses his great wolves, Freke and Gere, who serve Odin as companions, bodyguards, scouts and sometimes even as steeds, for they are ten feet in length and as strong as ten horses. Odin also sets them upon miscreant or blasphemous mortals, when the  need arises for such punishment. ",
+    "exits": [
+      false,
+      false,
+      "12094",
+      false,
+      false,
+      false
+    ]
+  },
+  "12094": {
+    "title": "The Eastern Wing of the Palace",
+    "desc": "This half of the palace houses the various pets of Odin, whom he regards as close friends as well as servants, and quarters them accordingly, as would befit the friends of a god. Despite the presence of animals, there is no distinctive odor as one would normally associate with such places; further testimony to the magical nature of these creatures. ",
+    "exits": [
+      "12093",
+      false,
+      "12092",
+      "12099",
+      false,
+      false
+    ]
+  },
+  "12095": {
+    "title": "A Lofty Nest",
+    "desc": "Odin's ravens reside here, in a large nest which has been constructed to suit their simple needs. They are frequently send abroad by Odin to spy on Jotunheim, Midgaard or other parts of Gladsheim. Various shiny objects of the sort birds are attracted by are woven into the nest.   Peering over the edge, you can see the snowy plains of Asgard far below, and the towering branches of Yggdrasil, the top of which is not far from here. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12096"
+    ]
+  },
+  "12096": {
+    "title": "A Stairway to...",
+    "desc": "A small stair heads up to a trapdoor here, opening onto the roof of Valaskialf and whatever it quarters. Magical forces here prevent the trapdoor remaining open, and thus protect the interior from the elements. ",
+    "exits": [
+      false,
+      "12099",
+      false,
+      false,
+      "12095",
+      false
+    ]
+  },
+  "12097": {
+    "title": "Odin's Private Council Chambers",
+    "desc": "It is here that Odin confers with his fellow Aesir on matters of grave import, seated about the oak table that rests before the hearth. Papers and maps are scattered all over the table along with the occasional sword or hammer scar, where an angry Aesir has vented his wrath more than once on the hapless furniture. Statues rest in each corner of the room depicting each of the four elements. Large bearskins have been nailed to the walls, and a white dragon hide dominates the high wooden ceiling. ",
+    "exits": [
+      false,
+      "12060",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12098": {
+    "title": "Gladshelf",
+    "desc": "This is Odin's private place of reflection. You shouldn't be here... ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12099": {
+    "title": "Before Hlidskialf",
+    "desc": "Few people indeed outside the Aesir have been inside Valaskialf, and Odin likes it that way. This is his private residence; he prefers to conduct official business in his council chambers, or, more rarely, at appointed places in Midgaard. The interior of the main hall is similar to most Aesir lodges, save that the main chamber bears a massive throne, placed before a roaring fireplace. ",
+    "exits": [
+      "12089",
+      "12094",
+      "12091",
+      "12096",
+      false,
+      false
+    ]
+  },
+  "12100": {
+    "title": "The Durin Forge",
+    "desc": "This chamber is bathed in a reddish glow, its source the roaring blaze that provides the great heat necessary to forge the many weapons these ancient and proud dwarves produce. It was in these fires that Mjolnir itself was forged, for Thor, and other wondrous relics of the Aesir and Vanir alike. The heat is oppressive and unbearable for long periods of time. ",
+    "exits": [
+      false,
+      "12111",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12101": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      "12064",
+      "12103",
+      "12102",
+      "12106",
+      false,
+      false
+    ]
+  },
+  "12102": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      "12101",
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12103": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      false,
+      false,
+      "12104",
+      "12101",
+      false,
+      false
+    ]
+  },
+  "12104": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      "12103",
+      "12105",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12105": {
+    "title": "A Clearing in the Grove",
+    "desc": "At this point there is a small clearing in the grove, a circular grassy area surrounded by a ring of the same magical apple trees found everywhere else in this unusual place. A magical aura so strong that even nonspellcasters can sense it pervades this entire area. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12104",
+      false,
+      false
+    ]
+  },
+  "12106": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      false,
+      "12101",
+      "12107",
+      false,
+      false,
+      false
+    ]
+  },
+  "12107": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      "12106",
+      false,
+      false,
+      "12108",
+      false,
+      false
+    ]
+  },
+  "12108": {
+    "title": "A Clearing in the Grove",
+    "desc": "At this point there is a small clearing in the grove, a circular grassy area surrounded by a ring of the same magical apple trees found everywhere else in this unusual place. A magical aura so strong that even nonspellcasters can sense it pervades this entire area. ",
+    "exits": [
+      false,
+      "12107",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12109": {
+    "title": "The Apple Orchard",
+    "desc": "Apple trees of all shapes and sizes, each surrounded by white auras of magical energies, surround you on all sides, each bearing a heavy load of the magical apples that sustain the immortality of the Aesir. Thus this grove is of significant importance to the Aesir; should their many enemies somehow sabotage the growth of these apples their very existences would be in dire jeopardy. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12110": {
+    "title": "The Chambers of Fjalar",
+    "desc": "This large stony hall houses Flajar, the greatest of the Durin and a fearsome warrior and giantslayer. Feared and respected by friend and foe alike, his power in combat is not to be scoffed at, despite his diminutive stature. His abode is simple, and spartan, as you'd expect of this sworn soldier of the Durin. Relics from previous victories are his only vanities- several giant skulls, and weapons, plus the hide of a polar bear and a white dragon. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12111": {
+    "title": "The End of the Tunnel",
+    "desc": "The long tunnel ends here, at a junction, where two large chambers lie to the west and southeast. The gothic architecture of this place never ceases to amaze you; intricate stonework inlaid over the centuries  with complex patterns and sculptings. Ancient banners hang from dark metal rods, while suits of armor and crossed axes line a ledge at head height (to a dwarf). Despite the fact that the inhabitants are rarely over five feet in height, the ceiling is a good twenty feet above you. ",
+    "exits": [
+      false,
+      false,
+      "12112",
+      "12100",
+      false,
+      false
+    ]
+  },
+  "12112": {
+    "title": "A Junction",
+    "desc": "Several tunnels meet here, branching off into the gloom of the Durin cave complex. Inhabitants are few; war and time have ravaged their numbers, and they know that one day their race will die out, as all things eventually do. These halls are a testament, however, to this  race's long and glorious history, of war and of excellence in the art of smithing and stonemasonry. ",
+    "exits": [
+      "12111",
+      "12117",
+      false,
+      "12113",
+      false,
+      false
+    ]
+  },
+  "12113": {
+    "title": "A Bend in the Tunnel",
+    "desc": "The tunnel bends here, heading east towards a junction. Smoldering brands thrust into iron cressets mounted on the finished walls cast a little light through the pervasive subterranean gloom, while a dim glow, from light reflecting off uncut gemstones piled near the walls, is also visible. The dwarves live where they work, here in the mines of their ancestors. ",
+    "exits": [
+      false,
+      "12112",
+      "12114",
+      false,
+      false,
+      false
+    ]
+  },
+  "12114": {
+    "title": "The Tunnels of the Durin",
+    "desc": "The Durin live in vast subterranean complexes, like their sworn enemy the giants, though it is there that the similarity ends. For while giant lairs are dark, grim places with little to recommend them, the tunnels of the Durin are of finished stone, inlaid with intricately carved murals that are indicative of the superb skill of the artisans. Statues of their ancestors line the walls, seeming to support the roof of the tunnels that serve as their income and their residences. ",
+    "exits": [
+      "12113",
+      false,
+      false,
+      false,
+      "12115",
+      false
+    ]
+  },
+  "12115": {
+    "title": "Descending into the Darkness",
+    "desc": "The tunnel descends steeply, the walls showing signs of working with tools, though only in parts, where a vein of minerals has been found by these expert miners and stonemasons. Few dwarves can be found in here; their numbers are small, and dwindling by the decade. One day these halls will be the sole reminder that this proud and ancient  race ever existed. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12116",
+      "12114"
+    ]
+  },
+  "12116": {
+    "title": "A Guard Cave",
+    "desc": "A small cave, of unworked stone, contains but a single visible exit- a tunnel that descends sharply into the darkness below and whatever it contains. There is a small campfire here, doubtless used by the alert sentry posted here by the doughty Durin, to stand guard here. Raids by the giants are undoubtedly frequent, and thus the need for tight security. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12161",
+      "12115"
+    ]
+  },
+  "12117": {
+    "title": "The Mines",
+    "desc": "Rich veins of copper, silver and mithril are visible even to the novice miner's eye in the rough walls of this section of tunnel. The Durin are in the process of mining this section, thus the rough surfaces, and are hoping to extract the wealth from here before the giants drive them out yet again, forcing them to seek another new lair. It is hoped that the wealth accumulated here will enable them to fund their seemingly futile effort to defeat all giantkind. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12112",
+      false,
+      false
+    ]
+  },
+  "12118": {
+    "title": "The Mines",
+    "desc": "This rough hewn tunnel is dimly lit, and thus you stumble more than once on a pick or pile of ore, or bang into a mine cart as you make your way through the mine. Workers ignore you, intent on salvaging what they may from the natural reserves of precious metals before it is too late. ",
+    "exits": [
+      false,
+      false,
+      "12119",
+      false,
+      false,
+      false
+    ]
+  },
+  "12119": {
+    "title": "The Mines",
+    "desc": "This point marks the limit of Durin excavation; the wall to the south shows signs of having been dug at, though not extensively as there is sufficient to keep the miners occupied in the veins already unearthed. Piles of metal awaiting refinement lie next to several carts, ready to be taken to the smith. ",
+    "exits": [
+      "12118",
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12120": {
+    "title": "The Hall of Forseti",
+    "desc": "You stride into the protective shelter of a hall that appears to be composed entirely of gold and other precious metals; the effect is quite dazzling and you blink in disbelief. All this gold! So little time to try and steal it... Shaking yourself free of such delusions, you peer about and note the many representations of Law and Order, and realize that the owner of this mighty hall is undoubtedly of honorable mein and equally undoubtedly quite capable of preventing vandalism or theft of his wealth. ",
+    "exits": [
+      "12013",
+      false,
+      "12121",
+      false,
+      false,
+      false
+    ]
+  },
+  "12121": {
+    "title": "Glitner",
+    "desc": "The hall that serves as home to Balder's son certainly lives up to its name. Every surface gleams in your light, and you cannot help but be impressed by the casual display of such an abundance of precious metals. No wonder that mortals speak in awestruck tones of Forseti's golden, glittering hall. The god himself sits in a simple wooden chair, from which he dispenses justice or advice as requested by his companions and family. ",
+    "exits": [
+      "12120",
+      "12122",
+      false,
+      "12123",
+      false,
+      false
+    ]
+  },
+  "12122": {
+    "title": "A Wing of the Hall",
+    "desc": "Forseti stores a variety of items here, of value ranging from mundane to fantastic. The majority of the items are quite large and bulky, and would be impossible to move without pack animals. Some of the items, however, appear to be more portable... ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12121",
+      false,
+      false
+    ]
+  },
+  "12123": {
+    "title": "A Wing of the Hall",
+    "desc": "Forseti stores a variety of items here, of value ranging from mundane to fantastic. The majority of the items are quite large and bulky, and would be impossible to move without pack animals. Some of the items, however, appear to be more portable... ",
+    "exits": [
+      false,
+      "12121",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12124": {
+    "title": "Valhalla",
+    "desc": "Gazing eastward, your eyes widen as you see a broad plain littered with corpses, their blood staining the snow a deep crimson. You suddenly realize that you are gazing upon the fields of Valhalla, where the fabled Einheriar do battle daily, in preparation for Ragnarok. Long wooden lodges encircle the plain, where the Einheriar rest between their neverending  series of battles. ",
+    "exits": [
+      false,
+      "12125",
+      false,
+      "12195",
+      false,
+      false
+    ]
+  },
+  "12125": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12126",
+      "12129",
+      "12127",
+      "12124",
+      false,
+      false
+    ]
+  },
+  "12126": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      false,
+      "12128",
+      "12125",
+      false,
+      false,
+      false
+    ]
+  },
+  "12127": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12125",
+      "12130",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12128": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      false,
+      "12131",
+      "12129",
+      "12126",
+      false,
+      false
+    ]
+  },
+  "12129": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12128",
+      "12132",
+      "12130",
+      "12125",
+      false,
+      false
+    ]
+  },
+  "12130": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12129",
+      "12133",
+      false,
+      "12127",
+      false,
+      false
+    ]
+  },
+  "12131": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      false,
+      false,
+      "12132",
+      "12128",
+      false,
+      false
+    ]
+  },
+  "12132": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12131",
+      false,
+      "12133",
+      "12129",
+      false,
+      false
+    ]
+  },
+  "12133": {
+    "title": "The Fields of Valhalla",
+    "desc": "The bloodsoaked snowfields echo with the clash of sword on shield and the cries of men in the midst of bloodlust rages, intent on slaughtering each other, preparing for Ragnarok, when they will be led in final battle against the giants. Every day, at dawn, their spirits arise from the halls of Valhalla, where they are brought by the Valkyries, and they do battle with each other till the sun sets, when they rest and engage in revelry. ",
+    "exits": [
+      "12132",
+      false,
+      false,
+      "12130",
+      false,
+      false
+    ]
+  },
+  "12134": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      false,
+      "12159",
+      "12135",
+      false,
+      false,
+      false
+    ]
+  },
+  "12135": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12134",
+      "12158",
+      "12136",
+      false,
+      false,
+      false
+    ]
+  },
+  "12136": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12135",
+      "12157",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12137": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      false,
+      false,
+      "12138",
+      "12159",
+      false,
+      false
+    ]
+  },
+  "12138": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12137",
+      false,
+      "12139",
+      "12158",
+      false,
+      false
+    ]
+  },
+  "12139": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12138",
+      false,
+      false,
+      "12157",
+      false,
+      false
+    ]
+  },
+  "12140": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12141",
+      "12143",
+      "12147",
+      "12155",
+      false,
+      false
+    ]
+  },
+  "12141": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12142",
+      "12144",
+      "12140",
+      "12154",
+      false,
+      false
+    ]
+  },
+  "12142": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12147",
+      "12145",
+      "12141",
+      "12153",
+      false,
+      false
+    ]
+  },
+  "12143": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12144",
+      "12152",
+      "12146",
+      "12140",
+      false,
+      false
+    ]
+  },
+  "12144": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12145",
+      "12151",
+      "12143",
+      "12141",
+      false,
+      false
+    ]
+  },
+  "12145": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12146",
+      "12150",
+      "12144",
+      "12142",
+      false,
+      false
+    ]
+  },
+  "12146": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12143",
+      "12149",
+      "12145",
+      "12147",
+      false,
+      false
+    ]
+  },
+  "12147": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12140",
+      "12146",
+      "12142",
+      "12148",
+      false,
+      false
+    ]
+  },
+  "12148": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12155",
+      "12147",
+      "12153",
+      "12149",
+      false,
+      false
+    ]
+  },
+  "12149": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12152",
+      "12148",
+      "12150",
+      "12146",
+      false,
+      false
+    ]
+  },
+  "12150": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12149",
+      "12153",
+      "12151",
+      "12145",
+      false,
+      false
+    ]
+  },
+  "12151": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12150",
+      "12154",
+      "12152",
+      "12144",
+      false,
+      false
+    ]
+  },
+  "12152": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12151",
+      "12155",
+      "12149",
+      "12143",
+      false,
+      false
+    ]
+  },
+  "12153": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. A truly foolhardy salt could dive overboard and swim into the depths. ",
+    "exits": [
+      "12148",
+      "12142",
+      "12154",
+      "12150",
+      false,
+      false
+    ]
+  },
+  "12154": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12153",
+      "12141",
+      "12155",
+      "12151",
+      false,
+      false
+    ]
+  },
+  "12155": {
+    "title": "The Storm-Tossed Sea",
+    "desc": "Adrift on the churning, frigid waters, you cannot see land anywhere you look. The icy spray freezes on your face, and your hands turn blue as you grip onto whatever is keeping you afloat. Only a fool would attempt to negotiate these waters; and it is a fool you must be, to be out here. Long, dark shapes move silently beneath the salty brine, barely visible through the foam. ",
+    "exits": [
+      "12154",
+      "12140",
+      "12148",
+      "12152",
+      false,
+      false
+    ]
+  },
+  "12156": {
+    "title": "Plunging into the Depths",
+    "desc": "You sink like a stone as you hit the water, quickly swept under by the raging sea, which quickly becomes apparent is a blessing; if you can  survive here, it is much more pleasant than the surface. Schools of  fish swim past while larger predators dart here and there, snapping at them as they flee into the deep blue waters. The water is cold, but is kept from freezing you by a warm current that rises from far below the surface. This haven from the tempest atop is welcome indeed! ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12153",
+      "12157"
+    ]
+  },
+  "12157": {
+    "title": "The Marine Court",
+    "desc": "You reach the bottom of the sea, sooner than you expected, and look around. A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12158",
+      "12139",
+      false,
+      "12136",
+      "12156",
+      false
+    ]
+  },
+  "12158": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      "12159",
+      "12138",
+      "12157",
+      "12135",
+      false,
+      false
+    ]
+  },
+  "12159": {
+    "title": "The Marine Court",
+    "desc": "A stone courtyard, encrusted with barnacles that tear at your clothing as you pass, stretches before you, teeming with all manner of marine life. A sense of peace, after escaping the storm, is soon supplanted by a growing unease as you regard some of the dark horrors of the depths, never meant to be seen by surface dwellers. The master of this domain appears to be well guarded. ",
+    "exits": [
+      false,
+      "12137",
+      "12158",
+      "12134",
+      false,
+      false
+    ]
+  },
+  "12160": {
+    "title": "The Throne of the Sea God",
+    "desc": "A rather ominous cave is revealed by shoving the pillar away, and it is suddenly difficult to move forwards; a strong current, its source magical, pushes at you, and warming you; evidently this is the source of the warmth you felt earlier. The cave boasts little of interest,  save for a large throne of barnacles, that have covered the original stone one. To sit on it would invite agony, though its owner appears to be able to do so without discomfort.  ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12161": {
+    "title": "A Massive Cavern Complex",
+    "desc": "You pass into a huge cavern, from which numerous passages branch off, into the subterranean lairs of the many races that battle over the bloody fields of Jotunheim. An uncharacteristically warm breeze wafts in from the passages on this level, while the upper and lower exits lead to icy dark passages. Skulls and broken weapons litter the floor here, the site of many battles between giant and dwarf. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12172",
+      "12116"
+    ]
+  },
+  "12162": {
+    "title": "The Realm of Fire",
+    "desc": "A narrow twisting tunnel lit by flaming gases winds into the bowels of the earth, the heat causing you to sweat profusely, it is entirely unexpected after the freezing cold of the rest of Asgard. Long shadows cast by the tall inhabitants of this lair loom menacingly up ahead. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12163": {
+    "title": "The Realm of Fire",
+    "desc": "You wander into a twisting tunnel, of yellowed stone, lit by flaming gases, their source tiny holes in the wall through which they escape from some hidden source. Skulls covered in bronze line the walls, and grin evilly at those who pass by, heading further into this grim lair. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12164": {
+    "title": "The Realm of Fire",
+    "desc": "A larger section of the tunnels widens into a cavern, lit by torches set in iron cressets, while braziers stacked with coals warm the whole room to an uncomfortable temperature. Long, giantish weapons hang on the walls, ready to be taken up against the many enemies of the giants in times of strife, most commonly when Thor arrives for his regular sortie against his mortal enemies. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12165"
+    ]
+  },
+  "12165": {
+    "title": "The Realm of Fire",
+    "desc": "Downwards the tunnels twist, further into the depths of the mountain, heading towards its molten core, which is paradise to the cold hating fire giants. Footsteps echo all around you, as giants make their way through their subterranean lair, on business of their own. There are little decorations in this abode; the giants possess less skill than the dwarves in stonemasonry, and less interest. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12166",
+      "12164",
+      false
+    ]
+  },
+  "12166": {
+    "title": "The Realm of Fire",
+    "desc": "The tunnel ends in a dead end here, in a cavern used to store various supplies taken by the giants when they emerge from their lair to make war on Asgard or the Durin. Occasionally a giant force will travel as far as Midgaard, to aid their cousins there, though if truth be known  the giants of your realm are more advanced than these barbaric tribes men. ",
+    "exits": [
+      false,
+      "12165",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12167": {
+    "title": "The Realm of Fire",
+    "desc": "The tunnel slopes down sharply again; the walls here are smooth and featureless, as if they had been worn smooth by water... or lava. It would make sense for the fire giants to lair in or near the greatest source of heat they could find, and what better source than a rocky cave system atop (or within) a volcano? Giants of your own realm are similarly inclined. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12168"
+    ]
+  },
+  "12168": {
+    "title": "The Realm of Fire",
+    "desc": "The lava tube continues downwards, before at last levelling out to head northeast towards a large cavern, which is so brightly lit as to be visible from here, the reddish glow bathing this whole tunnel in light. Giants mill about, semi-alert for intruders, but mostly impatiently awaiting the next raid. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12167",
+      false
+    ]
+  },
+  "12169": {
+    "title": "The Realm of Fire",
+    "desc": "As the tunnel approaches the bright cave it widens, to a point where six giants could walk abreast. It is frightening to consider the sheer volume of lava it would take to fashion this tunnel, as it melted its way through the softer rock, before erupting onto the surface, there to add a new layer to the mountain. The master of this realm cannot be far from here now. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12170": {
+    "title": "The Infernal Throne of Surtur",
+    "desc": "Here lies the throne of Surtur, lord of the fire giants. It is a towering chair of iron, ablaze with magical flame of brilliant hues of red and blue, which cast a blinding light throughout the cavernous halls. Large stone statues of fire giants wielding massive swords flank the throne, and line the hall, which is a deep red, and is shot through with rivulets of molten lava, the heat from which is almost unbearable. The ceiling is of dark stone, and appears to have once been the mouth of an active volcano or cinder cone. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12171": {
+    "title": "Jotunheim!",
+    "desc": "You stagger out of the blizzard into a large cave, set in the side of a massive mountain that was nearly invisible in the raging blizzard. Bones are scattered across the floor, some of them twice the size of you. A dreadful, keening wail echoes about the cave, from some unknown source. Presumably you have stumbled inadvertently upon the realm of the giants; Jotunheim. But how to proceed...? ",
+    "exits": [
+      false,
+      false,
+      "12000",
+      false,
+      false,
+      false
+    ]
+  },
+  "12172": {
+    "title": "Ascending the Mountain",
+    "desc": "This tunnel rises sharply, heading away from the hot interior back up to the chilly upper tunnels of the mountain you are within. You must be approaching the lair of the frost giants, who prefer the cold and ice more than any native of Asgard and its neighboring realms. It is with some reluctance you continue; frost giants of Jotunheim are far more powerful than those of Midgaard. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12173",
+      "12161"
+    ]
+  },
+  "12173": {
+    "title": "The Icy Caverns",
+    "desc": "The tunnel evens out on an icy ledge, which is not dissimilar to those of the legendary realm of the frost giants of Midgaard, known as the Glacial Rift. Here, the ice is all that is beneath your feet; it has been carved from the frozen water that filled the open spaces in the mountain to create tunnels to allow the inhabitants to move through. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12172"
+    ]
+  },
+  "12174": {
+    "title": "The Icy Caverns",
+    "desc": "The ice tunnel continues, winding through the top of the mountain, heading presumably towards the master of this icy realm, the mighty frost giant known as Thrym, sworn enemy of Aesir and Vanir, and he also who it is predicted will with his armies one day slay Thor in battle at Ragnarok. Actually, this is Thrym's skewed version of the prophecy; the Aesir believe Thor will fall at the hands of the world serpent, Jormungand. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12176",
+      false,
+      false
+    ]
+  },
+  "12175": {
+    "title": "The Center of the Blizzard",
+    "desc": "You clamber up the sink hole, and emerge back into the icy wastes, though at this point there is a curious lull in the continual storms. A massive icy clearing is here, atop a mountain, bearing a massive iron spike driven deep into the mountain, to which something of immense size is presumably meant to be tethered. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12176": {
+    "title": "The Icy Caverns",
+    "desc": "At this point an icy chute ascends sharply, heading up to a ledge on top of this massive peak. Snow drifts are piled here, where snow has entered the lair from above. Footprints of giants and wolves mark it, though few head upwards into the shaft itself, which is accessible via a series of hand- and footholds. ",
+    "exits": [
+      "12178",
+      "12174",
+      false,
+      false,
+      "12177",
+      false
+    ]
+  },
+  "12177": {
+    "title": "The Icy Chute",
+    "desc": "Onwards and upwards the chute ascends; progress is hampered by frostbite in your aching hands, and a constant chill breeze that assaults you, blowing ice and snow into your reddened face. When you emerge, snowblind and dazed, you hope you can muster enough energy to do battle with what awaits. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12175",
+      "12176"
+    ]
+  },
+  "12178": {
+    "title": "The Icy Throne of Thrym",
+    "desc": "The chambers of the Frost Giant King, Thrym, lie before you, where the giant rests in between battles against the Aesir and the Vanir, with or without his sometime ally Surtur. Thrym is a strong giant, nowhere near as strong as Surtur, but what he lacks in comparison to the fire giant he more than makes up for with his cunning and guile. While Surtur is quite happy to mindlessly assault Asgardians in direct combat, Thrym tries to plan and make much more intelligent tactical decisions. However, he is still but a giant, and often fails in his efforts to outsmart the Aesir, though Loki has been known to aid him from time to time. ",
+    "exits": [
+      false,
+      false,
+      "12176",
+      false,
+      false,
+      false
+    ]
+  },
+  "12179": {
+    "title": "Niflheim",
+    "desc": "The second you step down onto this blackened branch you instinctively know you have reached the underworld, where Hel and her minions receive the souls of the dishonorable dead, to torment them for eternity. Flame has scorched the surrounding foilage here, creating a canopy of ash and cinder, which frames a gaping cave entrance to the east, within which you will encounter the most malevolent residents of the Tree. ",
+    "exits": [
+      false,
+      "12180",
+      false,
+      false,
+      "12196",
+      "12197"
+    ]
+  },
+  "12180": {
+    "title": "The Gates of Niflheim",
+    "desc": "Blackened, mangled metal gates rise here, out of a dark field of  enveloping gloom. A chill runs up and down your spine, despite the heat that emanates from blazing fires that fill braziers to either side of the gate. Thick smoke chokes your lungs and clouds your vision, and the stench of brimstone is strong. Were that you were anywhere but here in this fell domain! You can see no way of opening the gate, which is too hot to touch and bears no handle or lock besides. Perhaps it is better that you do not continue, for to do so could well mean your end. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12179",
+      false,
+      false
+    ]
+  },
+  "12181": {
+    "title": "Niflheim",
+    "desc": "Blasted, twisted trees sprout haphazardly from broken, uneven ground littered with decaying corpses and burnt skulls. Impaled humans howl and scream in pain as they dangle from the horrid implements thrust through their bellies. Blood drips from the blackened walls, flowing into large pools at your feet. The smell is as diabolical as one would expect in such a dire place. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12182": {
+    "title": "Niflheim",
+    "desc": "Fell shapes and shadows hurl themselves at you out of the bloody gloom, eager to feast on your body and soul. No mortal would sanely venture here unless they were one of the fallen who were deemed unworthy of Valhalla. But undaunted you press on, mostly because the edit that you passed through to enter this infernal realm has disappeared... ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12183": {
+    "title": "Niflheim",
+    "desc": "Your every sense is assaulted and offended by this realm of the dead; it is more than that even, it is a realm of the damned, those totally devoid of any hope of redemption. No one would willingly reside in such a place, except as its dark master, which Hel is. She is aware of all who pass through her realm, and most likely lies in wait not far away, eager to teach you a well-deserved lesson. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12184": {
+    "title": "Niflheim",
+    "desc": "Onwards the corpse-strewn path of bone contines, past blasted trees which support the weight of mutilated souls in their branches, who cry out for an end to this torment as you pass, an end that no one save Hel herself can grant, and there is little hope of her doing so. The flayed, limbless trunks of the damned flail about at your feet, driven insane by the pain inflicted on their crippled forms. ",
+    "exits": [
+      false,
+      false,
+      "12187",
+      false,
+      false,
+      false
+    ]
+  },
+  "12185": {
+    "title": "A Fiery Death",
+    "desc": "You stumble and topple forwards into the fiery pit, screaming as the flesh is blasted from your bones by an immense wave of heat, reducing your idiotic mortal form to ash in milliseconds. And while the death may have been mercifully quick, the repurcussions of the destruction  of your mortal form will haunt you for some time... ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12186": {
+    "title": "Niflheim",
+    "desc": "The path ends abruptly here, before the bottomless pit, from which red flames lick at the edge. To proceed in this direction would mean you have to plunge into the middle of this fiery pit; an unpalatable choice at best. Perhaps you'd prefer the safer course to suicide, which lies  back to the east, where you may proceed down the bone bridge. ",
+    "exits": [
+      false,
+      "12188",
+      false,
+      false,
+      false,
+      "12185"
+    ]
+  },
+  "12187": {
+    "title": "Niflheim",
+    "desc": "The path here skirts a bottomless gorge that looms to the left, filled partially by searing flame, into which a multitude of sinners are thrust by tiny, grinning imps with pitchforks. The stench of burning flesh is overpowering, and threatens to induce nausea, though the sickening odor is overshadowed by the sight of bags of naked, screaming children, the offspring of the damned, being flung into pits of fire and trampled by grinning fiery giants, who take a disturbing pride in their work. ",
+    "exits": [
+      "12184",
+      false,
+      false,
+      "12188",
+      false,
+      false
+    ]
+  },
+  "12188": {
+    "title": "Niflheim",
+    "desc": "At this point a narrow path winds downwards to the southeast, a thin frame of bones covered with stretched skin, that descends into the gorge, towards whatever may lie at the bottom. The path continues to the west along the gorge, but appears to end abruptly at a sheer drop into the fiery pit. ",
+    "exits": [
+      false,
+      "12187",
+      false,
+      "12186",
+      false,
+      false
+    ]
+  },
+  "12189": {
+    "title": "The Bridge of Bone",
+    "desc": "The bone path you are following stretches across the gorge, the flames failing to reach the bridge itself, though the immense heat is still almost overwhelming. On the far side, it reaches a dark hole which  plunges down into the gloomy depths, towards whatever may lie there in wait for you. Shrieking, flaming bats circle the bridge, soaring far above and below, not coming too close. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      "12190"
+    ]
+  },
+  "12190": {
+    "title": "The Dark Pit",
+    "desc": "You plunge downwards into the pit, striking the soft earth at the very bottom, sinking in to your knees in the bloodsoaked dirt. Peering up, you see that the top of the pit is some distance away, and a magical enchantment would be required to head back that way. Footprints in the dirt show that you are not the first to have ventured this far. ",
+    "exits": [
+      false,
+      false,
+      false,
+      "12191",
+      "12189",
+      false
+    ]
+  },
+  "12191": {
+    "title": "Niflheim",
+    "desc": "The earth hardens here, forcing you out as it compresses into a hard, stony substance that yields little underfoot. A dank, dusty odor fills the air, though the area is devoid of corpses; only blank stone walls are visible, stretching far to the south. The odor from the pit to the east makes you keen to press on. More bodies can be seen to the south; the respite was only brief. ",
+    "exits": [
+      false,
+      "12190",
+      "12194",
+      false,
+      false,
+      false
+    ]
+  },
+  "12192": {
+    "title": "A Lonely Death",
+    "desc": "As you step into the cave, the entrance mysteriously disappears, leaving you trapped in the darkness, with no means of escape. You try every spell and trick you know, but all is in vain. Eventually malnutrition gets the better of you and you slowly perish in this; one of Hel's favorite death traps, your body never to be seen again. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12193": {
+    "title": "A Dead End",
+    "desc": "The tunnel ends here, before the entrance to more caves, a couple of them to the east large enough for you to crawl into, if you don't mind having to slither amongst the foul pale humanoids that reside within, exuding a thick grey mucous from their pores that renders them slick and lubricated. The stench is, not surprisingly, quite unbearable, and you find yourself desperately wishing to be away from here, away from Niflheim, away from Asgard, away from all things not of Midgaard. ",
+    "exits": [
+      "12194",
+      "12192",
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12194": {
+    "title": "An Infernal Junction",
+    "desc": "Several dark tunnels meet here, heading into the dark, dismal depths of Niflheim. Bursts of flame explode from small holes in the floor at random intervals, of too brief duration to injure you, but sufficient to cause you to start in surprise and fear. Dark cave entrances abound everywhere, most of them crawling with the pale bodies of the damned, writhing like maggots over and around each other, doomed to spend milennia in this form, as partial attrition for their sins. ",
+    "exits": [
+      "12191",
+      false,
+      "12193",
+      false,
+      false,
+      false
+    ]
+  },
+  "12195": {
+    "title": "Yggdrasil",
+    "desc": "At this point, cries of pain and anger combined with the sounds of combat echo across the boughs of the trees, coming from a snowfield to the east. You can barely make out many warriors, battling fiercely with each other, and wonder if it would be safe to enter this place, seeing as the comforting surrounds of Yggdrasil feel so safe and secure. ",
+    "exits": [
+      false,
+      "12124",
+      false,
+      false,
+      "12013",
+      "12196"
+    ]
+  },
+  "12196": {
+    "title": "Yggdrasil",
+    "desc": "The tree continues, the myriad of branches twisting and weaving their way through the fabric of time and space, allowing access to various planes, including the homes of the Aesir, the Vanir and other lesser races. A foul stench arises from the branches below you, which are all twisted and blackened, and soaked with blood. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12195",
+      "12179"
+    ]
+  },
+  "12197": {
+    "title": "Yggdrasil",
+    "desc": "You are nearing the base of this mighty tree; just below you a field of shimmering magical energy obfuscates whatever may lurk there. The bark of the tree here is blackened and charred, as it was above, though not as badly. A musty smell fills the air. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12179",
+      "12200"
+    ]
+  },
+  "12198": {
+    "title": "The River of Blood",
+    "desc": "A river of the blood of the damned flows through Niflheim, and many of the foul inhabitants of this realm draw strength from its waters. Beyond this river lies the twisted metal throne of Hel herself, ruler of Niflheim and impartial observer over the dead. She will be angered by your intrusion into her realm; you can expect a rather violent  reception. ",
+    "exits": [
+      "12199",
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "12199": {
+    "title": "Before the Goddess of Hel",
+    "desc": "Here Hel sits in judgement over those who have been damned to spend all of eternity in the infernal region that bears her name. A vile, malicious and utterly evil god, she delights in the torment and suffering of others, especially mortals from Midgaard who wander into her domain inadvertently! Tall columns of flame flicker to either side of a throne of bone, upon which the unholy god sits, and a multitude of small demons and imps scurry here and there, dragging in fresh corpses, piles of intestines, and other pleasant accoutrements to add to her hellish demesne. ",
+    "exits": [
+      false,
+      false,
+      "12198",
+      false,
+      false,
+      false
+    ]
+  },
+  "12200": {
+    "title": "The Base of Yggdrasil",
+    "desc": "You have finally reached the roots of the Tree of Life, the base from which all knowledge and wisdom sprouts. Here the Norns- Urd, Verdandi and Skuld- tend the tree, and prophesise the future. It was here that  Odin gained his ability of prophesy, and paid the terrible price for the gift. The Norns remain absolutely impartial in all affairs of mortal and god, and favor neither side in any conflict. Their abode is encased in a shimmering sphere of grey energy, which obscures the rest of the tree. A large scrying device- a pool of glistening water that looks strangely attuned to magical energies- covers the floor, through which the Norn may observe the goings-on of Midgaard. ",
+    "exits": [
+      false,
+      false,
+      false,
+      false,
+      "12197",
+      false
+    ]
+  }
+}
